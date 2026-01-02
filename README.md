@@ -17,7 +17,7 @@ The proposal outlines the research motivation, guiding questions, and theoretica
 ### Final Research Paper
 The final paper develops and evaluates multiple theoretical accounts of consciousness in relation to artificial systems.
 
-- Located in: `paper/`
+- Located in: `Research_Paper/`
 - Engages with philosophical and computational perspectives on AI and consciousness
 
 ---
